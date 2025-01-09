@@ -20,8 +20,7 @@
    <img align="left" height="180" alt="Github-Stats-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLuiza15&show_icons=true&theme=radical&langs_count=16&count_private=true&include_all_commits=true">
 </div>
 
-<!-- Adicione uma quebra de linha para criar o espaço -->
-<br><br>
+<br><br><br><br><br><br><br>
 
 <div style="display: inline_block;"> 
    <a href="https://instagram.com/annaluizahc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
