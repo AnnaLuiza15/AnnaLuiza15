@@ -14,7 +14,7 @@
 
 ##
 
-<div style="display: inline_block; margin-bottom: 20px;">
+<div style="display: inline_block; margin-bottom: 20rem;">
    <h3> :zap: Github Stats </h3>
    <img align="left" height="180" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=AnnaLuiza15&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
    <img align="left" height="180" alt="Github-Stats-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLuiza15&show_icons=true&theme=radical&langs_count=16&count_private=true&include_all_commits=true">
