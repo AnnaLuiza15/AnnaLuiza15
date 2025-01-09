@@ -20,7 +20,7 @@
    <img align="left" height="180" alt="Github-Stats-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLuiza15&show_icons=true&theme=radical&langs_count=16&count_private=true&include_all_commits=true">
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ##
 
