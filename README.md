@@ -1,6 +1,6 @@
 ## Olá👋 Eu sou a Anna Luiza 😁
 
- - ✨ Estudando: C# <img align="center" alt="Logo-react" height="23" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+ - ✨ Estudando: C# <img align="center" alt="Logo-react" height="23" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg">
  - 😊 Pronomes: Ela/Dela
 
 ##
