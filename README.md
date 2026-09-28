@@ -17,20 +17,3 @@
   <img align="center" alt="Anna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
 
-/*
-
-<div style="display: inline_block;">
-   <h3> :zap: Github Stats </h3>
-   <img align="left" height="180" alt="Github-Stats" src="https://github-readme-stats.vercel.app/api?username=AnnaLuiza15&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-   <img align="left" height="180" alt="Github-Stats-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLuiza15&show_icons=true&theme=radical&langs_count=16&count_private=true&include_all_commits=true">
-</div>
-
-<br><br><br><br><br><br><br><br>
-
-##
-
-<div style="display: inline_block; margin-up: 20px;"> 
-   <a href = "mailto:annaluizadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/anna-luiza-331235319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-*/
